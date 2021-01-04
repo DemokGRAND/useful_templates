@@ -31,3 +31,4 @@ answerT = factorial(5)/(factorial(3) * 1 * 1) * (p10**3 * p9 * p8)
 
 asnwer = answerT + answerF + answerS
 p = 100
+p = 200
